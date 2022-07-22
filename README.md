@@ -1,6 +1,6 @@
 ### Welcome to my profile✨👋
 ## 📖About Me:
-🎓I am Dmitry Fedorovich and i am Python and Full-Stack Web Developer form Belarus.
+🎓I am Dmitry Fedorovich and i am Python, Full-Stack Web Developer, Shell scripter, Designer and Noderunner.
 ## 🛠️My Skills:
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white)
