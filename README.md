@@ -15,7 +15,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-31A8FF?style=for-the-badge&logo=xcode&logoColor=white)
 ## 💻 My Workspace Configuration:
 ![i5-1035G1](https://img.shields.io/badge/Intel-Core_i5_1035G1-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![macos](https://img.shields.io/badge/macOS Monterey-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macos](https://img.shields.io/badge/macOS_Monterey-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ## 🔗 Links:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CoreDov)
