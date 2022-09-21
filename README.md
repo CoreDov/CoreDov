@@ -14,7 +14,7 @@
 ![AS](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ## 💻 My Workspace Configuration:
 ![i5-1035G1](https://img.shields.io/badge/Intel-Core_i5_1035G1-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=windows&logoColor=white)
+![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ## 🔗 Links:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CoreDov)
